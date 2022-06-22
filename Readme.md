@@ -18,7 +18,7 @@ Very quickly, it fulfills the need to solve the connection that is not found in 
 
 **Jest**
 
-## Frameworks:
+## Frameworks and Libraries:
 
 
 Only React:
@@ -29,7 +29,7 @@ React (independent):
 ---
 **react-google-maps/api**
 
-Independentes:
+Libraries:
 ---
 **Formik**, **Yup**, **Bootstrap**, **Date-fns** y **Firebase**
 
