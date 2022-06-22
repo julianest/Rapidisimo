@@ -12,7 +12,7 @@ Very quickly, it fulfills the need to solve the connection that is not found in 
 
 ## This project was created with:
 
-**React** y **Firebase**
+**React** and **Firebase**
 
 ## This proyect was Tested with:
 
@@ -31,11 +31,11 @@ React (independent):
 
 Libraries:
 ---
-**Formik**, **Yup**, **Bootstrap**, **Date-fns** y **Firebase**
+**Formik**, **Yup**, **Bootstrap**, **Date-fns** and **Firebase**
 
 Other Tools:
 ---
-**Cloudinary** y **Sweetalert**
+**Cloudinary** and **Sweetalert**
 
 ## Available Scripts
 
@@ -51,7 +51,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ---
 
 Link to Main Repository [https://github.com/academia-geek/demo-day-projects-rapidisimo](https://github.com/academia-geek/demo-day-projects-rapidisimo).  
-Link to Repository [https://github.com/julianest/Rapidisimo](https://github.com/julianest/Rapidisimo).  
+Link to Repository Landing Page [https://github.com/julianest/Rapidisimo](https://github.com/julianest/Rapidisimo).  
 Link to Backend Repository [https://github.com/giraldoDavid/rapidisimoProject](https://github.com/giraldoDavid/rapidisimoProject).
 
 
