@@ -25,7 +25,7 @@ Only React:
 ---
 **React-Router-Dom** 
 
-React (independentes):
+React (independent):
 ---
 **react-google-maps/api**
 
